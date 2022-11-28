@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Modupeolawuraola
-- 👀 I’m interested in Data Science python library 
-- 🌱 I’m currently interested in python programming language
-- 💞️ I’m looking to collaborate on Data science knowledge sharing 
+- 👀 I’m interested in Data Science/ML 
+- 🌱 I’m currently interested python programming language
+- 💞️ I’m looking to collaborate on Data science/ML knowledge sharing 
 - 📫 How to reach me linkedln ; https://www.linkedin.com/in/modupeola-fagbenro-45a147186/ 
 
 <!---
