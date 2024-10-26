@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@Gold31"
+          feed_list: "https://dev.to/wura360modupe,https://medium.com/@Gold31"
