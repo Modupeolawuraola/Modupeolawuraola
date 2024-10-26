@@ -5,9 +5,10 @@
 
 ### 💁 About Me:
 - 👀 I’m interested in Data Analysis, Data Science and Machine learning, Big Data, Cloud Computing
-- 🌱 I’m currently interested python programming language, SQL , Machine learning-Natural Language Processing, Deep learning
-- I write about Data Science my blog is https://medium.com/@Gold31
-- 💞️ I’m looking to collaborate on Data science/ML knowledge sharing
+- 🌱 I’m interested python programming language, SQL , Machine learning-Natural Language Processing, Deep learning
+- ✍️ I write about Data Science my blog is https://medium.com/@Gold31
+- 💞️ 💌 I’m looking to collaborate on Data science/ML knowledge sharing
+- 📙 Currently learning everything 
 
 ### ✉️ Find me on:
 <p align="center">
@@ -38,12 +39,10 @@
 </p>
 
 ### 📘 Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏅 My Github Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Modupeolawuraola&show_icons=true&theme=blueberry) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modupeolawuraola&theme=ocean_dark)
 
 
