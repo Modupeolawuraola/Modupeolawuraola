@@ -12,12 +12,21 @@
 
 ### ✉️ Find me on:
 <p align="center">
-<a href="https://sites.google.com/gwmail.gwu.edu/modupeola-website-portfolio/home?authuser=0"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://github.com/Modupeolawuraola" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/modupeola-fagbenro/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:modupeola.fagbenro@gwu.edu"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://medium.com/@Gold31"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+    <a href="https://sites.google.com/gwmail.gwu.edu/modupeola-website-portfolio/home?authuser=0">
+        <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" height="40" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://github.com/Modupeolawuraola" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://www.linkedin.com/in/modupeola-fagbenro/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="mailto:modupeola.fagbenro@gwu.edu">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://medium.com/@Gold31">
+        <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" height="40" style="vertical-align:top; margin:4px;">
+    </a>
 </p>
 
 <br />
