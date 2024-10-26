@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@medium
+      - uses: actions/checkout@v2
       - uses: Gold/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/@Gold31"
