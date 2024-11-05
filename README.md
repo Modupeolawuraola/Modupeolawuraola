@@ -6,7 +6,7 @@
 ### 💁 About Me:
 - 👀 I’m interested in Data Analysis, Data Science and Machine learning, Big Data, Cloud Computing
 - 🌱 I’m interested python programming language, SQL , Machine learning-Natural Language Processing, Deep learning
-- ✍️ I write about Data Science my blog is https://medium.com/@Gold31
+- ✍️ I write about Data Science; my blog is https://medium.com/@Gold31
 - 💞️ 💌 I’m looking to collaborate on Data science/ML knowledge sharing
 - 📙 Currently learning everything
 - 😄Fun Fact: Eat🥫🔃,play🤾‍♀️🔃, code👩‍💻🔃, sleep🛌🔃 ::repeat🔃
