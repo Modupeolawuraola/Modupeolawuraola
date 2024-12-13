@@ -19,6 +19,7 @@
   - Natural Language Processing
 - 💹 Business Intelligence Solutions
 - 📈 Statistical Modeling & Predictive Analytics
+- 🏬 ☁️ Big Data Database  & Cloud Computing
 
 
 ### ✉️ Find me on:
