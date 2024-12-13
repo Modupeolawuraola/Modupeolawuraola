@@ -14,12 +14,12 @@
 
 ### 💻 🧰 🛠️ Expertise:
 - 📊 Data Analysis & Advanced Visualization
-- 🎰 Machine Learning Implementation:
+- 🤖 Machine Learning Implementation:
   - Deep Learning
   - Natural Language Processing
 - 💹 Business Intelligence Solutions
 - 📈 Statistical Modeling & Predictive Analytics
-- 🏬 ☁️ Big Data Database  & Cloud Computing
+-  ☁️ Big Data & Cloud Computing
 
 
 ### ✉️ Find me on:
