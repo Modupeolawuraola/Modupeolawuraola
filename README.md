@@ -63,16 +63,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### ML-Project Deployed 
-<!-- Basic usage -->
-![My Profile Picture](./profile-pic.jpg)
+### ML-Project Deployed -AI-News-Article-Generator
 
-<!-- With custom size -->
-<img src="./profile-pic.jpg" width="200" height="100">
+![My Profile Picture](./AI_news.png)
+
+<img src="./profile-pic.jpg" width="50" height="100">
 
 ### 🏅 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Modupeolawuraola&show_icons=true&theme=blueberry) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modupeolawuraola&theme=ocean_dark)
-
 
 
 
@@ -81,3 +79,4 @@
 Modupeolawuraola/Modupeolawuraola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
