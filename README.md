@@ -65,9 +65,7 @@
 
 ### ML-Project Deployed -AI-News-Article-Generator
 
-![My Profile Picture](./AI_news.png)
-
-<img src="./profile-pic.jpg" width="50" height="100">
+<img src="./AI_news.png" width="1000" height="500">
 
 ### 🏅 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Modupeolawuraola&show_icons=true&theme=blueberry) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modupeolawuraola&theme=ocean_dark)
