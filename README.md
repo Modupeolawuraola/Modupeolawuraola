@@ -55,13 +55,20 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="google" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/hadoop-orange" alt="Hadoop" />
-    <img src="https://img.shields.io/badge/tableau-blue" alt="Tableau" />
+    <img src="https://img.shields.io/badge/tableau-blue" alt="Tableau" /> 
     <img src="https://img.shields.io/badge/scala-lightgreen"
 </p>
 
 ### 📘 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### ML-Project Deployed 
+<!-- Basic usage -->
+![My Profile Picture](./profile-pic.jpg)
+
+<!-- With custom size -->
+<img src="./profile-pic.jpg" width="200" height="100">
 
 ### 🏅 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Modupeolawuraola&show_icons=true&theme=blueberry) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modupeolawuraola&theme=ocean_dark)
