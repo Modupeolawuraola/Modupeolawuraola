@@ -63,12 +63,16 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### ML-Project Deployed -AI-News-Article-Generator
+### ML-Project Deployed -AI-News-Article-Generator    
 
-<img src="./AI_news.png" width="1000" height="500">
+<img src="./AI_news.png" width="600" height="400">   
 
 ### AI - Medical Research Assistant 
-<img src="./ai-research-assitant.png" width="1000" height="500">
+ 
+<img src="./ai-research-assitant.png" width="600" height="400">
+
+
+
 
 ### 🏅 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Modupeolawuraola&show_icons=true&theme=blueberry) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modupeolawuraola&theme=ocean_dark)
