@@ -66,6 +66,8 @@
 ### ML-Project Deployed -AI-News-Article-Generator
 
 <img src="./AI_news.png" width="1000" height="500">
+
+### AI - Medical Research Assistant 
 <img src="./ai-research-assitant.png" width="1000" height="500">
 
 ### 🏅 My Github Stats
