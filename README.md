@@ -24,15 +24,16 @@
 
 ### ✉️ Find me on:
 <p align="center">
-    <a href="https://modupeolawuraola.github.io/">
-    <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px;"></a>
+    <a href="https://modupeolawuraola.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px;">
+    </a>
     <a href="https://github.com/Modupeolawuraola" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://www.linkedin.com/in/modupeola-fagbenro/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;">
     </a>
-    <a href="mailto:modupeola.fagbenro@gwu.edu">
+    <a href="mailto:modupeola.faagbenro@gwu.edu" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://medium.com/@Gold31">
