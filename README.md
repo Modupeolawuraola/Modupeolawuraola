@@ -24,9 +24,8 @@
 
 ### ✉️ Find me on:
 <p align="center">
-    <a href="https://sites.google.com/gwmail.gwu.edu/modupeola-website-portfolio/home?authuser=0">
-        <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" height="40" style="vertical-align:top; margin:4px;">
-    </a>
+    <a href="https://modupeolawuraola.github.io/">
+    <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px;"></a>
     <a href="https://github.com/Modupeolawuraola" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px;">
     </a>
