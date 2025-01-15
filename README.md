@@ -65,9 +65,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### ML-Project Deployed -AI-News-Article-Generator    
-
- <img src="./AI_news.png" width="600" height="400">   
+ 
 
 ### AI - Medical Research Assistant 
  
