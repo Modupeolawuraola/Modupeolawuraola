@@ -67,11 +67,11 @@
 
 ### ML-Project Deployed -AI-News-Article-Generator    
 
-<img src="./AI_news.png" width="600" height="400">   
+### <img src="./AI_news.png" width="600" height="400">   
 
 ### AI - Medical Research Assistant 
  
-<img src="./ai-research-assitant.png" width="600" height="400">
+### <img src="./ai-research-assitant.png" width="600" height="400">
 
 
 
