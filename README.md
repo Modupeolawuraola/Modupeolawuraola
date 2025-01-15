@@ -67,9 +67,9 @@
 
  
 
-### AI - Medical Research Assistant 
+<!-- ### AI - Medical Research Assistant  -->
  
-<img src="./ai-research-assitant.png" width="600" height="400">
+<!--- <img src="./ai-research-assitant.png" width="600" height="400"> --->
 
 
 
