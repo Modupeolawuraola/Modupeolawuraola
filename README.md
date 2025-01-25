@@ -26,9 +26,9 @@
 
 ### ✉️ Find me on:
 <p align="center">
-    <a href="https://modupeolawuraola.github.io/" target="_blank" rel="noopener noreferrer">
+    <!---<a href="https://modupeolawuraola.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px;">
-    </a>
+    </a>---->
     <a href="https://github.com/Modupeolawuraola" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px;">
     </a>
