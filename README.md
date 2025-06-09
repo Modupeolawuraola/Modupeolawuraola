@@ -4,12 +4,12 @@
 
 
 ### 💁 About Me:
-- 👀 I’m interested in Data Science, Machine learning, BI Engineer, Big Data, Cloud Computing
-- 🌱 Working with python programming language, SQL , Machine learning-Natural Language Processing, Deep learning
+- 👀 I’m interested in Data Science, Machine learning, Statistical and Exoeriental modelling, Big Data, Cloud Computing
+- 🌱 Working with Python programming language, SQL, Machine learning-Natural Language Processing, Deep learning
 - ✍️ I write about Data Science; my blog is https://medium.com/@Gold31
 - 📙 Currently learning everything
 - 📖 Exploring: Deep Learning, Advanced Natural Language Processing, GenAI
-- 🤝 I’m looking to collaborate on Data science/ML knowledge sharing
+- 🤝 I’m looking to collaborate on Data science/ML knowledge-sharing
 - 😄Fun Fact: Eat🥫🔃 ➡code👩‍💻🔃 ➡sleep🛌🔃 ➡repeat🔃
 
      
@@ -18,9 +18,9 @@
 - 📊 Data Analysis & Advanced Visualization
 - 🤖 Machine Learning Implementation:
   - Deep Learning
+  - Time Series Analysis
   - Natural Language Processing
-- 💹 Business Intelligence Solutions
-- 📈 Statistical Modeling & Predictive Analytics
+- 📈 Statistical Modeling, Experimentation & Predictive Analytics
 -  ☁️ Big Data & Cloud Computing
 
 
