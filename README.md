@@ -4,7 +4,7 @@
 
 
 ### 💁 About Me:
-- 👀 I’m interested in Data Science, Machine learning, Statistical and Exoeriental modelling, Big Data, Cloud Computing
+- 👀 I’m interested in Data Science, Machine learning, Statistical and Experimental modeling, Big Data, Cloud Computing
 - 🌱 Working with Python programming language, SQL, Machine learning-Natural Language Processing, Deep learning
 - ✍️ I write about Data Science; my blog is https://medium.com/@Gold31
 - 📙 Currently learning everything
